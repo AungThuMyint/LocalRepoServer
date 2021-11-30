@@ -11,4 +11,4 @@ bash LocalRepoServerConfig.sh
 <img src=https://raw.githubusercontent.com/AungThuMyint/LocalRepoServer/main/Preview.png>
 
 ### *Installation Video*
-[![](https://i.ytimg.com/vi/pHEbsJ6j3YI/maxresdefault.jpg)](https://www.youtube.com/watch?v=pHEbsJ6j3YI)
+[![](https://i.ytimg.com/vi/UGnbHpwPKEs/hqdefault.jpg)](https://youtu.be/UGnbHpwPKEs)
