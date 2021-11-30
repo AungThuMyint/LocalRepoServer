@@ -153,7 +153,7 @@ echo
 			EOF
 			yum clean all
 			yum repolist all
-			echo "[#] LocalReop Configuration Is Successful."
+			echo "[#] LocalRepo Configuration Is Successful."
 		;;
 		3)
             exit
